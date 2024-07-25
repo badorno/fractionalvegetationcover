@@ -9,7 +9,7 @@ This tutorial and javascript allow Google Earth Engine users to calculate Fracti
 
 <div class="fluid-row" id="header">
   <h1 class="title toc-ignore">Video tutorial (pt-br)</h1>
-  <a href="https://github.com/badorno/fractionalvegetationcover/blob/main/figs/flowchart_Fr.jpg">
+  <a href="https://github.com/badorno/fractionalvegetationcover/blob/main/figs/flowchart_Fr.png">
     <img src="figs/flowchart_fr.jpg" height='auto' width='auto' >
   </a>
 </div>
