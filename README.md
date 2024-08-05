@@ -7,13 +7,7 @@
 
 This tutorial and javascript allow Google Earth Engine users to calculate Fractional Vegetation Cover based on scaled NDVI squared (ref) and refine the result through a resampling interactive process. This tutorial is about the script **fractionalvegetationcoverrefined**
 
-<div class="fluid-row" id="header">
-  <h1 class="title toc-ignore">Video tutorial (pt-br)</h1>
-  <a href="https://github.com/badorno/fractionalvegetationcover/blob/main/figs/flowchart_Fr.png">
-    <img src="figs/flowchart_fr.jpg" height='auto' width='auto' >
-  </a>
-</div>
-
+![flowchart_Fr](https://github.com/user-attachments/assets/7f2084f3-ffb4-4401-9dbd-693882016113)
 
 
 # How to use
