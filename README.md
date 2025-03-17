@@ -7,7 +7,7 @@
 
 This tutorial and javascript allow Google Earth Engine users to calculate Fractional Vegetation Cover based on scaled NDVI squared [(Carlson; Ripley 1997)](https://www.sciencedirect.com/science/article/pii/S0034425797001041) and refine the result through a resampling interactive process (Figure 1). 
 
-![processing](https://github.com/badorno/fractionalvegetationcover/blob/main/figs/processing.png)
+![processing](https://github.com/badorno/fractionalvegetationcover/blob/main/figs/processig.png)
 
 <p align="center">
 Figure 1. Proposed workflow for empirical sampling of NDVI<sub>s</sub> and NDVI<sub>0</sub> for refining Fractional vegetation cover (Fr) calculation.
