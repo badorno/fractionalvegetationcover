@@ -53,6 +53,13 @@ d - Fractional Vegetation Cover (Fr)
 
 e - Comparing NDVI and Fr
 
+<div align="center">
+    <p> Click on the image below to watch the lecture </p>
+  <a href="https://youtu.be/imFIyeOAxRg">
+    <img src="https://github.com/badorno/fractionalvegetationcover/blob/main/figs/lecture_folder.jpg?raw=true" width="800">
+  </a>
+</div>
+
 <h4>4. In case you want to learn how the script works see the video below or go straight to the next video. </h4>
 
 <h4>5. Watch the video tutorial explaining how to calculate the Fractional Vegetation Cover using the code provided </h4>
