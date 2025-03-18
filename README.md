@@ -1,6 +1,6 @@
 <div class="fluid-row" id="header">
     <h1 class="title toc-ignore">Fractional Vegetation Cover in GEE</h1>
-    <h4 class="author"><em>Bruno Vargas Adorno, Lorien Nesbitt, Silvana Amaral</em></h4>
+    <h4 class="author"><em>Bruno Vargas Adorno, Lorien Nesbitt, and Silvana Amaral</em></h4>
 </div>
 
 # About us
@@ -60,7 +60,14 @@ e - Comparing NDVI and Fr
   </a>
 </div>
 
-<h4>4. In case you want to learn how the script works see the video below or go straight to the next video. </h4>
+<h4>4. In case you want to learn more detail on how the script works, see the video below or go straight to the next video. </h4>
+
+<div align="center">
+  <a href="https://youtu.be/imFIyeOAxRg">
+    <img src="https://github.com/badorno/fractionalvegetationcover/blob/main/figs/FVC_explained_cover.jpg?raw=true" width="800">
+  </a>
+</div>
+
 
 <h4>5. Watch the video tutorial explaining how to calculate the Fractional Vegetation Cover using the code provided </h4>
 
