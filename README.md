@@ -56,20 +56,26 @@ e - Comparing NDVI and Fr
 <div align="center">
     <p> Click on the image below to watch the lecture </p>
   <a href="https://youtu.be/imFIyeOAxRg">
-    <img src="https://github.com/badorno/fractionalvegetationcover/blob/main/figs/lecture_folder.jpg?raw=true" width="800">
+    <img src="https://github.com/badorno/fractionalvegetationcover/blob/main/figs/lecture_folder.jpg?raw=true" width="500">
   </a>
 </div>
 
-<h4>4. In case you want to learn more details on how the script works, see the video below or go straight to the next video. </h4>
+<h4>4. In case you want to learn more details on how the script works, see the video below, or go straight to the next video. </h4>
 
 <div align="center">
   <a href="https://youtu.be/jo6vwdTGHjc">
-    <img src="https://github.com/badorno/fractionalvegetationcover/blob/main/figs/FVC_explained_cover.jpg?raw=true" width="800">
+    <img src="https://github.com/badorno/fractionalvegetationcover/blob/main/figs/FVC_explained_cover.jpg?raw=true" width="500">
   </a>
 </div>
 
 
 <h4>5. Watch the video tutorial explaining how to calculate the Fractional Vegetation Cover using the code provided </h4>
+
+<div align="center">
+  <a href="https://youtu.be/9gN0kKFTiMQ">
+    <img src="https://github.com/badorno/fractionalvegetationcover/blob/main/figs/FVC_handson.jpg?raw=true" width="500">
+  </a>
+</div>
 
 
 <h4>Enjoy!</h4>
