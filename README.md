@@ -60,10 +60,10 @@ e - Comparing NDVI and Fr
   </a>
 </div>
 
-<h4>4. In case you want to learn more detail on how the script works, see the video below or go straight to the next video. </h4>
+<h4>4. In case you want to learn more details on how the script works, see the video below or go straight to the next video. </h4>
 
 <div align="center">
-  <a href="https://youtu.be/imFIyeOAxRg">
+  <a href="https://youtu.be/jo6vwdTGHjc">
     <img src="https://github.com/badorno/fractionalvegetationcover/blob/main/figs/FVC_explained_cover.jpg?raw=true" width="800">
   </a>
 </div>
